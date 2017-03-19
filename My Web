@@ -1,0 +1,279 @@
+ <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">Project WEB.</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">Kawin.mek</a></li>
+                <li><a href="#contact">3D Based Communication Design</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact Other <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="https://www.facebook.com/babykawin">Facebook</a></li>
+                    <li><a href="#">LINE</a></li>
+                    <li><a href="https://plus.google.com/u/0/102909191195782651245">E-mail</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li class="dropdown-header">3DBCD</li>
+                    <li><a href="http://www.kmitl.ac.th/main.php">KMITL</a></li>
+                    <li><a href="#">PHONE</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item">
+          <img class="first-slide" src="http://vidtec.com.br/comodita1/wp-content/uploads/2014/10/Wall-background_08.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Kawin Meksumphun</h1>
+              <p>Date of Birth:13/02/40
+No. identity card:1 2101000 9293 1
+Nationality:Thai  Religion:Buddhism
+Address:Sukhumvit Road Onnuch 21/1 
+Condo waterfront park  Post office:10250
+</p>
+              <p><a class="btn btn-lg btn-primary" href="https://www.facebook.com/babykawin" role="button">Sign up today</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item active">
+          <img class="second-slide" src="http://128.199.121.151/dia2015/sites/default/files/slider-dia-building.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>KMITL</h1>
+              <p>Education: King Mongkut's Institute of Technology Ladkrabang
+/Faculty of Architecture 
+/Branch:3D Based Communication Design
+.</p>
+              <p><a class="btn btn-lg btn-primary" href="http://www.kmitl.ac.th/main.php" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="http://3.bp.blogspot.com/-RJykRMpoam8/VVXiW6bSxCI/AAAAAAAAkzU/Q-X5JKanTog/s1920/black-abstract-wallpaper-pink-blocks-made-of-lines-hdabstractwallpapers.com.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>My Aptitude</h1>
+              <p>Aptitude: Solid Work /Sketch UP /Sony vegas
+/Mail:babykawin@gmail.com	
+/Phone:085-126-2202
+/Facebook:Kawin Meksumphun
+</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+<p    </p>
+<p    </p>
+<p    </p>
+  <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/13419179_1231548046889551_4189439388577320605_n.jpg?oh=49c498f0cade2d643f91ac7cc0c25837&oe=596B089F" alt="Generic placeholder image" width="140" height="140">
+          <h2>I'am Kavin</h2>
+          <p>Kawin Meksumphun
+Date of Birth:13/02/40
+Nationality:Thai  /Religion:Buddhism
+/Address:Sukhumvit Road Onnuch 21/1 
+Condo waterfront park  Post office:10250
+</p>
+          <p><a class="btn btn-default" href="https://www.google.co.th/maps?rlz=1C1CHZL_thTH725TH725&espv=2&biw=1600&bih=745&q=%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B8%E0%B8%8A21/1&bav=on.2,or.r_cp.&bvm=bv.149760088,d.c2I&ion=1&um=1&ie=UTF-8&sa=X&ved=0ahUKEwib4pGMhePSAhUKro8KHSUrDBYQ_AUIBigB" role="button">View details »</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/17361784_1501287016582318_762594401260164312_n.jpg?oh=c9f109906e54d9ece8f8b64c90ab74e9&oe=5954B3D0" alt="Generic placeholder image" width="140" height="140">
+          <h2>3DBCD</h2>
+          <p>ผมเป็นนักศึกษาชั้นปีที่ 2 สถาบันพระจอมเกล้าเจ้าคุณทหารลาดกระบัง คณะ สถาปัตยกรรมศาสตร์ สาขาการออกแบบสนเทศสามมิติ สังกัดชมรม INGEN KMITL</p>
+          <p><a class="btn btn-default" href="http://www.arch.kmitl.ac.th/new/th/curriculum_3D-Based_Communication_design/" role="button">View details »</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t31.0-8/17240358_1583569665001418_51768344872760005_o.jpg?oh=25c83ab64af8ad0179515049899aacc0&oe=59713064" width="140" height="140">
+          <h2>APTITUDE</h2>
+          <p>Branch:3D Based Communication Design
+/Aptitude: Solid Work /Sketch UP /Sony vegas
+Mail:babykawin@gmail.com	
+Phone:085-126-2202
+Facebook:Kawin Meksumphun
+</p>
+          <p><a class="btn btn-default" href="https://www.facebook.com/1nnogen/?fref=ts" role="button">View details »</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
+      <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Design car sticker and signal. <span class="text-muted">Shell Eco Marathon Asia 2017.</span></h2>
+          <p class="lead">ผมเป็นผู้ออกแบบในส่วนของ stickerรถ และป้ายส่งสัญญาณคนขับของรถ PROTOTYPE รูปแบบพลังงานไฟฟ้าโดยรถตัวนี้ได้ส่งเข้าแข่งในรายการ Shell Eco Marathon Asia 2017.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/17309547_1501286376582382_5481704279191158575_n.jpg?oh=75abedcf9c71e1ed2fc4a70361bac148&oe=596552B3" data-holder-rendered="true">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">Now I Affiliation in <span class="text-muted">INOGEN CLUB.</span></h2>
+          <p class="lead">ปจุบันนอกจากศึกษาในคณะแล้วผมยังศึกษาการนำDesignเขามาประยุกต์กับงานเชิงงานวิศวกรรมที่ในชมรม INNOGEN ซึ่งเป็นชมรมวิจัยเกี่ยวกับรถประหยัดพลังงานอีกด้วย.</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-0/p206x206/17353230_1501286379915715_6070598609760914232_n.jpg?oh=13e2dfdcccf2dd53760f0d38918a8f30&oe=5961E973" data-holder-rendered="true">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Windows display. <span class="text-muted">Environmental design</span></h2>
+          <p class="lead">ความชอบคือการออกแบบสื่อปฏิสัมพันธ์ต่างๆและงานจำลองสภาพแวดล้อมหรืองาน Windows display</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t31.0-8/17358948_1501286799915673_4655444154325592442_o.jpg?oh=0d5287a75f103371d4415c08ed173b04&oe=59596133" data-holder-rendered="true">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
+
+    <!-- Carousel
+    ================================================== -->
+    
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    
+
+      <!-- Three columns of text below the carousel -->
+      <html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  </style>
+</head>
+<body>
+
+
+
+      <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Design by<span class="text-muted"> 3D Modeling.</span></h2>
+          <p class="lead">ถนัดการออกแบบและการขึ้นรูปโมเดลสามมิติด้วยโปรแกรมคอมพิวเตอร์และRenderงาน</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/17309309_1501358466575173_6283517509838163973_n.jpg?oh=9b3185f6ba94b6e7ed35d511343f5b8a&oe=5957E4DA" data-holder-rendered="true">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">Poster OR <span class="text-muted">
+Public Relations.</span></h2>
+          <p class="lead">สามารถออกแบบ Poster และการออกแบบเพื่อประชาสัมพันธ์ข้อมูลรูปแบบต่างๆในรูปแบบสื่อทั้งรูปแบบที่เป็น Analog และ Innovation</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="500x500" src="https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.0-9/17361698_1501286923248994_6821308270814882267_n.jpg?oh=3cb00f569395568c39e4756739c8d0e1&oe=5925A56A" data-holder-rendered="true">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
+
+
+      <!-- FOOTER -->
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>© 2017 MYPortfolio · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  
+
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="25" style="font-weight:bold;font-size:25pt;font-family:Arial, Helvetica, Open Sans, sans-serif">500x500</text></svg></body></html>
+
+<embed name="Most awesome 8 - bit song ever" src="Most awesome 8 - bit song ever.mp3" type="audio/midi"
+ autostart="false" Hidden="true" loop="true"></embed>
